@@ -18,6 +18,7 @@ googleAnalytics = "UA-32161445-1"
     author = "Artem Khvastunov"
     info = "GoLand Developer at JetBrains"
     description = "Artem Khvastunov's personal website"
+    images = ["/images/JetBrains.jpeg"]
     keywords = "blog,developer,personal"
     avatarurl = "/images/JetBrains.jpeg"
 

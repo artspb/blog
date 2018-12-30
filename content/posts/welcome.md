@@ -2,6 +2,7 @@
 draft = false
 date = 2018-12-30T17:15:01+01:00
 title = "Welcome"
+description = "I'd like to welcome everyone to my blog."
 slug = "welcome" 
 tags = ["hugo", "go", "github", "digitalocean", "nginx", "bash", "git"]
 categories = ["misc", "devops", "plugins"]
