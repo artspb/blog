@@ -1,0 +1,78 @@
+baseurl = "https://artspb.me"
+title = "Artem Khvastunov"
+theme = "hugo-coder"
+languagecode = "en-us"
+defaultcontentlanguage = "en-us"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "artspb"
+googleAnalytics = "UA-32161445-1"
+
+[params]
+    author = "Artem Khvastunov"
+    info = "GoLand Developer at JetBrains"
+    description = "Artem Khvastunov's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "/images/JetBrains.jpeg"
+
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
+
+    footercontent = ""
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = false
+    custom_css = []
+
+# Social links
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 1
+    url = "https://twitter.com/art_spb/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook fa-2x"
+    weight = 2
+    url = "https://www.facebook.com/art.spb"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 3
+    url = "https://instagram.com/art_spb"
+[[params.social]]
+    name = "Untappd"
+    icon = "fab fa-untappd fa-2x"
+    weight = 4
+    url = "https://untappd.com/user/artspb"
+[[params.social]]
+    name = "Telegram"
+    icon = "fab fa-telegram fa-2x"
+    weight = 5
+    url = "https://t.me/artspb"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 6
+    url = "https://github.com/artspb/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 7
+    url = "https://www.linkedin.com/in/artspb"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
