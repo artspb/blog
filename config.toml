@@ -73,6 +73,14 @@ googleAnalytics = "UA-32161445-1"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     weight = 1
     url  = "/posts/"
+[[menu.main]]
+    name = "Categories"
+    weight = 2
+    url  = "/categories/"
+[[menu.main]]
+    name = "Tags"
+    weight = 3
+    url  = "/tags/"
