@@ -11,6 +11,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+enableGitInfo = true
+
 disqusShortname = "artspb"
 googleAnalytics = "UA-32161445-1"
 
