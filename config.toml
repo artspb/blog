@@ -35,6 +35,8 @@ googleAnalytics = "UA-32161445-1"
     math = false
     custom_css = []
 
+    githuburl="https://github.com/artspb/blog"
+
 # Social links
 [[params.social]]
     name = "Twitter"
