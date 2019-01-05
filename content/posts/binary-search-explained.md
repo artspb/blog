@@ -77,3 +77,5 @@ n|clicks
 1024|[10](https://www.google.com/search?q=log2+1024)
 
 We've got ten comparisons instead of a thousand. Sold! Or? Though the algorithm is straightforward and efficient, there are still some pitfalls, so even [Java didn't make it](https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html) at the first attempt. Fortunately, we don't have to write yet another implementation and can use an existing one from git. But this is the topic of the next post, stay tuned.
+
+{{< tweet 1081657403077283841 >}}
