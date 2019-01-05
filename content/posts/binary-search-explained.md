@@ -3,7 +3,7 @@ draft = false
 date = 2019-01-05T21:37:54+01:00
 title = "Binary search explained"
 description = "The post gives a short explanation of what binary search is."
-images = ["/images/Binary_Search_Depiction.svg"]
+images = ["/images/binary-search-explained/500px-Binary_Search_Depiction.svg.png"]
 slug = "binary-search-explained" 
 tags = ["algorithms"]
 categories = ["computer science"]
@@ -64,7 +64,7 @@ range|middle|value|comparison|action
 It's important to remember that the index of the 9<sup>th</sup> element is `8`. The rest should be trivial. Below the same actions are present in a picture.
 
 <figure>
-  <img src="/images/Binary_Search_Depiction.svg" alt="Binary Search Depiction"/>
+  <img src="/images/binary-search-explained/Binary_Search_Depiction.svg" alt="Binary Search Depiction"/>
   <figcaption>AlwaysAngry [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Binary_Search_Depiction.svg">from Wikimedia Commons</a></figcaption>
 </figure>
 
