@@ -1,3 +1,5 @@
 /.idea
 /resources/_gen
 /public
+.hugo/*
+!.hugo/version
