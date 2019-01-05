@@ -3,6 +3,7 @@ draft = false
 date = 2019-01-05T21:37:54+01:00
 title = "Binary search explained"
 description = "The post gives a short explanation of what binary search is."
+images = ["/images/Binary_Search_Depiction.svg"]
 slug = "binary-search-explained" 
 tags = ["algorithms"]
 categories = ["computer science"]
