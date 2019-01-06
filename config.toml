@@ -71,10 +71,20 @@ googleAnalytics = "UA-32161445-1"
     weight = 6
     url = "https://github.com/artspb/"
 [[params.social]]
+    name = "Keybase"
+    icon = "fab fa-keybase fa-2x"
+    weight = 7
+    url = "https://keybase.io/artspb"
+[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
     weight = 7
     url = "https://www.linkedin.com/in/artspb"
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss fa-2x"
+    weight = 7
+    url = "https://artspb.me/index.xml"
 
 # Menu links
 [[menu.main]]
