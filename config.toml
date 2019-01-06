@@ -20,9 +20,9 @@ googleAnalytics = "UA-32161445-1"
     author = "Artem Khvastunov"
     info = "GoLand Developer at JetBrains"
     description = "Artem Khvastunov's personal website"
-    images = ["/images/JetBrains.jpeg"]
+    images = ["/images/800px-JetBrains.jpg"]
     keywords = "blog,developer,personal"
-    avatarurl = "/images/JetBrains.jpeg"
+    avatarurl = "/images/320px-JetBrains.jpg"
 
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
