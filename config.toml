@@ -78,12 +78,12 @@ googleAnalytics = "UA-32161445-1"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
-    weight = 7
+    weight = 8
     url = "https://www.linkedin.com/in/artspb"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss fa-2x"
-    weight = 7
+    weight = 9
     url = "https://artspb.me/index.xml"
 
 # Menu links
