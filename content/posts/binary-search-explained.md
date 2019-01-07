@@ -63,10 +63,7 @@ range|middle|value|comparison|action
 
 It's important to remember that the index of the 9<sup>th</sup> element is `8`. The rest should be trivial. Below the same actions are present in a picture.
 
-<figure>
-  <img src="/images/binary-search-explained/Binary_Search_Depiction.svg" alt="Binary Search Depiction"/>
-  <figcaption>AlwaysAngry [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Binary_Search_Depiction.svg">from Wikimedia Commons</a></figcaption>
-</figure>
+{{< figure src="/images/binary-search-explained/Binary_Search_Depiction.svg" alt="Binary Search Depiction" caption="AlwaysAngry [[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)], [from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Binary_Search_Depiction.svg)" >}}
 
 We "clicked" four times, it's a bit better than five. But how binary search performs on a different number of elements?
 
