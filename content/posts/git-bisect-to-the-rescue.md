@@ -3,6 +3,7 @@ draft = false
 date = 2019-01-20T11:09:11+01:00
 title = "git-bisect to the rescue"
 description = "The post explains when git-bisect can be useful and shows a simple usage scenario."
+images = ["/images/git-bisect-to-the-rescue/git-bisect-bad.png"]
 slug = "git-bisect-to-the-rescue" 
 tags = ["git", "bisect"]
 categories = ["tools"]
