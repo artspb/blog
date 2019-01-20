@@ -97,4 +97,6 @@ As simple as that, you've just found the commit that breaks the tests. You see t
 
 {{< tweet 981446572465586176 >}}
 
-I hope you enjoyed the reading. Do you have any questions left? Is there something I should cover in more details? I'm open for suggestions. Also, I'd really love to know your experience with *git-bisect*. Did you have a chance to try? Was it a success? Please comment below or on Twitter. 
+I hope you enjoyed the reading. Do you have any questions left? Is there something I should cover in more details? I'm open for suggestions. Also, I'd really love to know your experience with *git-bisect*. Did you have a chance to try? Was it a success? Please comment below or on Twitter.
+
+{{< tweet 1086929906649452544 >}}
