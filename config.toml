@@ -39,6 +39,11 @@ googleAnalytics = "UA-32161445-1"
 
     githuburl="https://github.com/artspb/blog"
 
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
 # Social links
 [[params.social]]
     name = "Twitter"
@@ -96,6 +101,10 @@ googleAnalytics = "UA-32161445-1"
     weight = 2
     url  = "/categories/"
 [[menu.main]]
-    name = "Tags"
+    name = "Series"
     weight = 3
+    url  = "/series/"
+[[menu.main]]
+    name = "Tags"
+    weight = 4
     url  = "/tags/"
