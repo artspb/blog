@@ -7,6 +7,7 @@ images = ["/images/binary-search-explained/500px-Binary_Search_Depiction.svg.png
 slug = "binary-search-explained" 
 tags = ["algorithms"]
 categories = ["computer science"]
+series = ["git-bisect"]
 +++
 
 As I mentioned in my [welcome](/posts/welcome/) post, I'm going to write a couple of blogs related to `git bisect`. The crucial part of this command (which is even hidden in its name) is **binary search**. I believe that the majority of those who read this text are pretty well aware of what it is and how it works. If you're among them or prefer to read [Wiki](https://en.wikipedia.org/wiki/Binary_search_algorithm) instead feel free to close this page and return to my blog when I have something more interesting to tell. The rest of you I kindly invite to continue reading.

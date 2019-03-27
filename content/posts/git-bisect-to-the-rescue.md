@@ -7,6 +7,7 @@ images = ["/images/git-bisect-to-the-rescue/git-bisect-bad.png"]
 slug = "git-bisect-to-the-rescue" 
 tags = ["git", "bisect"]
 categories = ["tools"]
+series = ["git-bisect"]
 +++
 
 Today I want to tell you about a tool I use occasionally but find extremely useful. I'm sure many of you fetch, pull, checkout, commit, and perhaps push using Git on a daily basis. In the same time, I doubt you bisect more or less often. There's even a high chance that you have never heard about this command before. If you're now curious what it is, then you have the right page open. Let's get started with the explanation.

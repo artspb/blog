@@ -7,6 +7,7 @@ images = ["/images/automating-git-bisect/git-bisect-run.png"]
 slug = "automating-git-bisect" 
 tags = ["git", "bisect", "run"]
 categories = ["tools"]
+series = ["git-bisect"]
 +++
 
 It took me a while to find time for this post. I could tell you a touchy story on how busy I was being a parent and having a full-time job at the same time. However, so many people have all this and still manage to do much more than just writing a single-page blog post. So I better shut up and proceed with the topic.
