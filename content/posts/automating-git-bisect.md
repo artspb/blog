@@ -429,3 +429,5 @@ bisect run success
 `git bisect run ./gradlew test` looks much nicer, and we don't need to worry about compilation any more thanks to Gradle. It's always great to have a tool which does all the routine for you.
 
 So, what is the takeaway of this article? You can automate `git bisect` with a shell script which does commit verification. In the most common case, it runs unit tests. Depending on your build system, it can even be a simple command. The next obvious step would be IDE support, but this is the topic for the next post. Stay tuned and thank you for reading.
+
+{{< tweet 1110892815079358466 >}}
