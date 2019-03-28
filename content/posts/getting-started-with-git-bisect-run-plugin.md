@@ -64,3 +64,5 @@ Moreover, there's one more thing. You probably remember from [the previous post]
 In this post, we've learned how to use git bisect run plugin in a basic case. However, there are more sophisticated scenarios like manual testing and multi-repo projects. They are to be covered in future posts.
 
 As usual, feel free to comment here or on Twitter with your questions and suggestions. I'm also curious how does the plugin work for you with other languages, e.g., Python or Go? Share your experience.
+
+{{< tweet 1111224368225550336 >}}
