@@ -7,7 +7,7 @@ images = ["/images/getting-started-with-git-bisect-run-plugin/git-bisect-run-ui.
 slug = "getting-started-with-git-bisect-run-plugin" 
 tags = ["git", "bisect", "run", "intellij", "idea", "plugin"]
 categories = ["tools", "tutorials", "plugins"]
-series = ["git-bisect", "git bisect run"]
+series = ["git-bisect", "git bisect run plugin"]
 +++
 
 This post continues [series](/series/git-bisect/) on `git bisect` command. Previously, we've learned how Git helps to find a commit which introduced failing tests. Now, I'd like to show how an IDE can simplify a process by hiding complexity behind literally one button. We'll need the same example projects ([one](https://github.com/artspb/git-bisect-example-project), [two](https://github.com/artspb/git-bisect-example-gradle-project)) we've used before. [A plugin](https://plugins.jetbrains.com/plugin/10874-git-bisect-run) we're going to examine in this post works with any JetBrains' IDE (Git plugin has to be enabled, though). I'll continue using IntelliJ IDEA as the demo projects are written in Java.
