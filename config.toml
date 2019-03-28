@@ -71,24 +71,29 @@ googleAnalytics = "UA-32161445-1"
     weight = 5
     url = "https://t.me/artspb"
 [[params.social]]
-    name = "Github"
+    name = "GitHub"
     icon = "fab fa-github fa-2x"
     weight = 6
     url = "https://github.com/artspb/"
 [[params.social]]
+    name = "Stack Overflow"
+    icon = "fab fa-stack-overflow fa-2x"
+    weight = 7
+    url = "https://stackoverflow.com/users/880457/artspb"
+[[params.social]]
     name = "Keybase"
     icon = "fab fa-keybase fa-2x"
-    weight = 7
+    weight = 8
     url = "https://keybase.io/artspb"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
-    weight = 8
+    weight = 9
     url = "https://www.linkedin.com/in/artspb"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss fa-2x"
-    weight = 9
+    weight = 10
     url = "https://artspb.me/index.xml"
 
 # Menu links
