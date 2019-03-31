@@ -11,6 +11,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+preserveTaxonomyNames = true
+
 enableGitInfo = true
 
 disqusShortname = "artspb"
