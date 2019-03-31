@@ -5,8 +5,8 @@ title = "Getting started with git bisect run plugin"
 description = "The post explains how to use git bisect run plugin for IntelliJ-based IDEs from JetBrains. It's a step-by-step tutorial which covers the most common case."
 images = ["/images/getting-started-with-git-bisect-run-plugin/git-bisect-run-ui.png"]
 slug = "getting-started-with-git-bisect-run-plugin" 
-tags = ["git", "bisect", "run", "intellij", "idea", "plugin"]
-categories = ["tools", "tutorials", "plugins"]
+tags = ["Git", "bisect", "run", "IntelliJ IDEA", "Plugin"]
+categories = ["Tools", "Tutorials", "Plugins"]
 series = ["git-bisect", "git bisect run plugin"]
 +++
 

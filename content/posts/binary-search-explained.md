@@ -5,8 +5,8 @@ title = "Binary search explained"
 description = "The post gives a short explanation of what binary search is."
 images = ["/images/binary-search-explained/500px-Binary_Search_Depiction.svg.png"]
 slug = "binary-search-explained" 
-tags = ["algorithms"]
-categories = ["computer science"]
+tags = ["Algorithms"]
+categories = ["Computer science"]
 series = ["git-bisect"]
 +++
 

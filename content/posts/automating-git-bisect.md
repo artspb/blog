@@ -5,8 +5,8 @@ title = "Automating git-bisect"
 description = "The post explains how to automate git-bisect so everything can be done with just two shell commands."
 images = ["/images/automating-git-bisect/git-bisect-run.png"]
 slug = "automating-git-bisect" 
-tags = ["git", "bisect", "run"]
-categories = ["tools"]
+tags = ["Git", "bisect", "run"]
+categories = ["Tools"]
 series = ["git-bisect"]
 +++
 

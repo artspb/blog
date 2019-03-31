@@ -4,8 +4,8 @@ date = 2018-12-30T17:15:01+01:00
 title = "Welcome"
 description = "I'd like to welcome everyone to my blog."
 slug = "welcome" 
-tags = ["hugo", "go", "github", "digitalocean", "nginx", "bash", "git"]
-categories = ["misc", "devops", "plugins"]
+tags = ["Hugo", "Go", "GitHub", "DigitalOcean", "NGINX", "Bash", "Git"]
+categories = ["Misc", "DevOps", "Plugins"]
 +++
 
 I'd like to welcome everyone to my blog. Since quite some time I wanted to experiment with static site generators. I decided to pick [Hugo](https://gohugo.io/) as it's written in Go. I agree that it doesn't sound like a valid reason. On the other hand, as I don't have any experience in this field any solution should work.
