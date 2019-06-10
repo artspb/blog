@@ -115,3 +115,5 @@ class Collector {
 ```
 
 OK, fair enough. Nevertheless, I proceeded with the research until an unforeseen sequence of events distracted me for a year. But here I am again with a couple of JMH benchmarks and a set of plots. In the next post, I'll show you what I already managed to find. Stay tuned!
+
+{{< tweet 1112269662946029570 >}}
