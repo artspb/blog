@@ -77,3 +77,7 @@ n|clicks
 We've got ten comparisons instead of a thousand. Sold! Or? Though the algorithm is straightforward and efficient, there are still some pitfalls, so even [Java didn't make it](https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html) at the first attempt. Fortunately, we don't have to write yet another implementation and can use an existing one from git. But this is the topic of the next post, stay tuned.
 
 {{< tweet 1081657403077283841 >}}
+
+**Update.** Roman Elizarov recently wrote an article on how to properly implement binary search. Check it out, it has a couple of interesting plot twists.
+
+{{< tweet 1140398641430982656 >}}
