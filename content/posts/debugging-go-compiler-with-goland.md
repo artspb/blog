@@ -52,3 +52,5 @@ That's basically it. You can now use the full power of [GoLand's debugger](https
 ![Debug Escape Analysis](/images/debugging-go-compiler-with-goland/debug-esc.png)
 
 I decided to write this article because I always forget one step or another. But now I have this how-to and hope that it'll help you as well. By the way, it's inspired by [the post](https://forum.golangbridge.org/t/debug-golang-compiler/9308) from GoBridge's forum.
+
+{{< tweet 1167099862179037184 >}}
