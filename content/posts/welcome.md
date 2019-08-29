@@ -15,5 +15,3 @@ Some technical details: the blog is stored on [GitHub](https://github.com/artspb
 Currently, I plan to write a couple of blogs about my hackathon project - [git bisect run](https://plugins.jetbrains.com/plugin/10874-git-bisect-run). It's an IntelliJ IDEA plugin which helps to simplify the process of looking for a defective commit. Also, you can expect to find here something on Java and Go as they're both in my sphere of interest. Oh, and maybe some Kotlin just because I'm in love with it.
 
 That's enough for the introduction I believe. The plan is made, things are easy now - simply follow it. I wish you all happy holidays and hope to see you here next year ;)
-
-{{< tweet 1079434750547374083 >}}
