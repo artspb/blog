@@ -1,3 +1,6 @@
+@import "syntax_light.css" (prefers-color-scheme: no-preference), (prefers-color-scheme: light);
+@import "syntax_dark.css" (prefers-color-scheme: dark);
+
 .content figcaption p {
     text-align: left;
 }
