@@ -55,11 +55,6 @@ googleAnalytics = "UA-32161445-1"
     weight = 1
     url = "https://twitter.com/art_spb/"
 [[params.social]]
-    name = "Facebook"
-    icon = "fab fa-facebook fa-2x"
-    weight = 2
-    url = "https://www.facebook.com/art.spb"
-[[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram fa-2x"
     weight = 3
