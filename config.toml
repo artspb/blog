@@ -36,6 +36,8 @@ googleAnalytics = "UA-32161445-1"
 
     rtl = false
 
+    colorscheme = "auto"
+
     math = false
     custom_css = ["/css/custom.css"]
 
