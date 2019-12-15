@@ -57,42 +57,42 @@ googleAnalytics = "UA-32161445-1"
 [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram fa-2x"
-    weight = 3
+    weight = 2
     url = "https://instagram.com/art_spb"
 [[params.social]]
     name = "Untappd"
     icon = "fab fa-untappd fa-2x"
-    weight = 4
+    weight = 3
     url = "https://untappd.com/user/artspb"
 [[params.social]]
     name = "Telegram"
     icon = "fab fa-telegram fa-2x"
-    weight = 5
+    weight = 4
     url = "https://t.me/artspb"
 [[params.social]]
     name = "GitHub"
     icon = "fab fa-github fa-2x"
-    weight = 6
+    weight = 5
     url = "https://github.com/artspb/"
 [[params.social]]
     name = "Stack Overflow"
     icon = "fab fa-stack-overflow fa-2x"
-    weight = 7
+    weight = 6
     url = "https://stackoverflow.com/users/880457/artspb"
 [[params.social]]
     name = "Keybase"
     icon = "fab fa-keybase fa-2x"
-    weight = 8
+    weight = 7
     url = "https://keybase.io/artspb"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
-    weight = 9
+    weight = 8
     url = "https://www.linkedin.com/in/artspb"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss fa-2x"
-    weight = 10
+    weight = 9
     url = "https://artspb.me/index.xml"
 
 # Menu links
