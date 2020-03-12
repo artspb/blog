@@ -91,3 +91,5 @@ You can now run this command right from the IDE using the little green triangle 
 * If something doesn't work, check that the integration is disabled under _Preferences | Go | Go Modules_. As for now, TinyGo doesn't work well with `go list`. 
 
 I hope this tutorial was useful for you. As always, I appreciate any feedback. Please share it here or anywhere where you can find me.
+
+{{< tweet 1238190068101263362 >}}
