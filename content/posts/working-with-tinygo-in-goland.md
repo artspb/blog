@@ -71,7 +71,7 @@ The code should be green; you should be able to navigate from any reference to i
 
 ```
 flash:
-	tinygo flash -target=arduino -port=/dev/tty.usbmodem14301 blinky1.go
+	tinygo flash -target=arduino blinky1.go
 ```
 
 ![Makefile](/images/working-with-tinygo-in-goland/makefile.png)
