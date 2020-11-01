@@ -11,24 +11,25 @@
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
-              <i class="fas fa-calendar"></i>
+              <i class="fa fa-calendar" aria-hidden="true"></i>
               <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
                 {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
               </time>
             </span>
             {{ if not ( eq (.Date.Format "2006-01-02") (.Lastmod.Format "2006-01-02") ) }}
               <span class="posted-on">
-                <i class="fas fa-pen"></i>
+                <i class="fa fa-pen" aria-hidden="true"></i>
                 <time datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
                   {{ .Lastmod.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
                 </time>
               </span>
             {{ end }}
             <span class="reading-time">
-              <i class="fas fa-clock"></i>
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
               {{ i18n "reading_time" .ReadingTime }}
             </span>
           </div>
+          {{ with .Page.Params.Authors }}{{ partial "taxonomy/authors.html" . }}{{ end }}
           {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
           {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
           {{ partial "taxonomy/edit-on-github.html" . }}
@@ -47,7 +48,7 @@
         {{ partial "posts/series.html" . }}
         {{ partial "posts/disqus.html" . }}
         {{ partial "posts/commento.html" . }}
-        {{ partial "posts/utteranc.html" . }}
+        {{ partial "posts/utterances.html" . }}
       </footer>
     </article>
 

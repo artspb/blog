@@ -1,6 +1,6 @@
 {{ if isset .Site.Params "githuburl" }}
     <div class="edit-on-github">
-        <i class="fab fa-github"></i>
+        <i class="fa fa-github" aria-hidden="true"></i>
         <a href="{{ .Site.Params.githuburl }}/edit/master/content/{{ .File.Path }}">Edit this post on GitHub</a>
     </div>
 {{ end }}
