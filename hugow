@@ -19,7 +19,7 @@
 # ------------------------------------------------------------------------------
 
 # ------------------------------------------------------------------------------
-# Hugo Wrapper (v1.4.0)
+# Hugo Wrapper (v1.4.1)
 #
 # Hugo Wrapper is a POSIX-style shell script which acts as a wrapper to download
 # and execute Hugo binary for your platform. It  can  be  executed in variety of
@@ -35,7 +35,7 @@
 
 set -e
 
-VERSION_NUMBER="v1.4.0"
+VERSION_NUMBER="v1.4.1"
 
 # hugo-wrapper command available flags
 get_version=""
@@ -82,6 +82,7 @@ while [ -n "$1" ]; do
     esac
 done
 
+# shellcheck disable=SC2086
 set -- $HUGO_ARGS
 
 if [ "$upgrade" = true ]; then
@@ -250,7 +251,7 @@ download_version() {
         versionDownloadSuffix=""
 
         if [ "$isExtended" = true ]; then
-            if [ "$majorVersion" -eq 0 ] && [ "$minorVersion" -lt 56 ]; then
+            if [ "$versionToDownload" != "LATEST" ] && [ "$majorVersion" -eq 0 ] && [ "$minorVersion" -lt 56 ]; then
                 checksumFilenamePrefix="hugo_extended"
             fi
 
