@@ -18,7 +18,7 @@
             </span>
             {{ if not ( eq (.Date.Format "2006-01-02") (.Lastmod.Format "2006-01-02") ) }}
               <span class="posted-on">
-                <i class="fa fa-pen" aria-hidden="true"></i>
+                <i class="fa fa-pencil" aria-hidden="true"></i>
                 <time datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
                   {{ .Lastmod.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
                 </time>
