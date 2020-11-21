@@ -1,15 +1,15 @@
-baseurl = "https://artspb.me"
+baseURL = "https://artspb.me"
 title = "Artem Khvastunov"
 theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
+languageCode = "en"
+defaultContentLanguage = "en"
 
 paginate = 20
-canonifyurls = true
+canonifyURLs = true
 
-pygmentsuseclasses = true
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
 
 preserveTaxonomyNames = true
 
@@ -24,26 +24,26 @@ googleAnalytics = "UA-32161445-1"
     description = "Artem Khvastunov's personal website"
     images = ["/images/cover-1200x600.png"]
     keywords = "blog,developer,personal"
-    avatarurl = "/images/320px-JetBrains.jpg"
+    avatarURL = "/images/320px-JetBrains.jpg"
 
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
 
-    footercontent = ""
+    footerContent = ""
 
-    hidecredits = false
-    hidecopyright = false
+    hideCredits = false
+    hideCopyright = false
 
     rtl = false
 
-    colorscheme = "auto"
-    hidecolorschemetoggle = true
+    colorScheme = "auto"
+    hideColorSchemeToggle = true
 
     math = false
-    custom_css = ["/css/custom.css"]
-    custom_js = ["/js/custom.js"]
+    customCSS = ["/css/custom.css"]
+    customJS = ["/js/custom.js"]
 
-    githuburl="https://github.com/artspb/blog"
+    githubURL="https://github.com/artspb/blog"
 
 [taxonomies]
     category = "categories"
