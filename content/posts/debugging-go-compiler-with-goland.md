@@ -33,7 +33,7 @@ Unsurprisingly, it prints `1` when run.
 
 ![Run go build main.go](/images/debugging-go-compiler-with-goland/run-go-build-main.png)
 
-Now, as we want to debug how it's actually compiled, we need to switch to the Go's codebase. I'm on the latest `master` which is currently at [`d56a86e0`](https://github.com/golang/go/commit/d56a86e01f2e771a4706f0a5cfbe2d87cd888f05), but you might want to choose one of [the release tags](https://github.com/golang/go/releases), so it matches your local tooling's version.
+Now, as we want to debug how it's actually compiled, we need to switch to the Go's codebase. I'm on the latest `master` which is currently at [`d56a86e0`](https://github.com/golang/go/commit/d56a86e01f2e771a4706f0a5cfbe2d87cd888f05), but you might want to choose one of [the release tags](https://github.com/golang/go/releases). Please refer to [this article](https://www.jetbrains.com/help/go/how-to-use-goland-to-contribute-to-go.html) on how to clone and build Go SDK in GoLand. You only need to complete the first three steps, but it's important to set `GOROOT` to the `Go devel` version.
 
 [`/src/cmd/compile/main.go`](https://github.com/golang/go/blob/d56a86e01f2e771a4706f0a5cfbe2d87cd888f05/src/cmd/compile/main.go) is the compiler's entry point. Let's open this file in the editor. At this moment, I need to mention that GoLand has so-called [run configurations](https://www.jetbrains.com/help/go/creating-and-editing-run-debug-configurations.html). They're needed to tell the IDE how it should, well, run your code. The easiest way to create one is to click the green triangle next to `func main()` and choose _Run ..._ Last time I did it for my example program, but this time we should do it for the compiler itself.
 
