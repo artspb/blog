@@ -37,7 +37,7 @@ googleAnalytics = "UA-32161445-1"
     rtl = false
 
     colorScheme = "auto"
-    hideColorSchemeToggle = false
+    hideColorSchemeToggle = true
 
     math = false
     customCSS = ["/css/custom.css"]
