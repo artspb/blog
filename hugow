@@ -19,7 +19,7 @@
 # ------------------------------------------------------------------------------
 
 # ------------------------------------------------------------------------------
-# Hugo Wrapper (v1.4.1)
+# Hugo Wrapper (v1.4.2)
 #
 # Hugo Wrapper is a POSIX-style shell script which acts as a wrapper to download
 # and execute Hugo binary for your platform. It  can  be  executed in variety of
@@ -35,7 +35,7 @@
 
 set -e
 
-VERSION_NUMBER="v1.4.1"
+VERSION_NUMBER="v1.4.2"
 
 # hugo-wrapper command available flags
 get_version=""
@@ -221,7 +221,7 @@ parse_json() {
 perform_checksum() {
     if [ -n "$1" ]; then
         if command -v sha256sum >/dev/null; then
-            echo "$1" | sha256sum --check >/dev/null
+            echo "$1" | sha256sum -c >/dev/null
         elif command -v shasum >/dev/null; then
             echo "$1" | shasum --algorithm 256 --check >/dev/null
         elif command -v cksum >/dev/null; then
