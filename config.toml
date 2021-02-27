@@ -16,7 +16,9 @@ preserveTaxonomyNames = true
 enableGitInfo = true
 
 disqusShortname = "artspb"
-googleAnalytics = "UA-32161445-1"
+
+[params.googleTagManager]
+    id = "UA-32161445-1"
 
 [params]
     author = "Artem Khvastunov"
