@@ -42,7 +42,7 @@ disqusShortname = "artspb"
     hideColorSchemeToggle = true
 
     math = false
-    customCSS = ["/css/custom.css"]
+    customCSS = ["/css/fonts.css", "/css/custom.css"]
     customJS = ["/js/custom.js"]
 
     githubURL="https://github.com/artspb/blog"

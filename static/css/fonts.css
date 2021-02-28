@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap");
+
+:root {
+    --text-font-family: Merriweather, Georgia, serif;
+    --heading-font-family: Lato, Helvetica, sans-serif;
+    --code-font-family: 'Source Code Pro', 'Lucida Console', monospace;
+}
+
+body {
+    font-family: var(--text-font-family);
+    font-size: 1.6em;
+    font-weight: 300;
+}
+
+a {
+    font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--heading-font-family);
+    font-weight: 700;
+    margin: 6.4rem 0 3.2rem 0;
+}
+
+.list ul li .title,
+.footer,
+.pagination {
+    font-family: var(--heading-font-family);
+}
+
+.navigation a,
+.navigation span {
+    font-size: 1.6rem;
+    font-family: var(--heading-font-family);
+    font-weight: 700;
+}
+
+pre,
+code {
+    font-family: var(--code-font-family);
+}
