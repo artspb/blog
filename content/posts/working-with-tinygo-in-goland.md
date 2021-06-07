@@ -10,6 +10,14 @@ categories = ["Go", "TinyGo", "Tools", "Tutorials"]
 series = ["GoLand", "TinyGo"]
 +++
 
+# Update
+
+Since GoLand 2021.1.2, there's a dedicated [TinyGo plugin](https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/). Consider using it as it simplifies configuration.
+
+{{< tweet 1400085796527423490 >}}
+
+# Original blog post
+
 I believe that you're here because you already know what [GoLand](https://www.jetbrains.com/go/) and [TinyGo](https://tinygo.org/) are. In this blog post, I'll show how to work with the latter in the former. Ready? Let's (Tiny)Go!
 
 1. Install TinyGo with the help of its [Getting Started](https://tinygo.org/getting-started/) page. On macOS, it's as easy as two terminal commands.
