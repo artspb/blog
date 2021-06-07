@@ -17,6 +17,8 @@ if (darkModeToggle) {
         setTheme(theme);
         rememberTheme(theme);
     });
+} else {
+    localStorage.removeItem("colorscheme")
 }
 
 darkModeMediaQuery.addListener((event) => {
