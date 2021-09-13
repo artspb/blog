@@ -45,3 +45,5 @@ Now, let's add [a breakpoint](https://www.jetbrains.com/help/go/using-breakpoint
 That's it; we're good to dive in. GoLand hits the breakpoint, so one can [examine](https://www.jetbrains.com/help/go/examining-suspended-program.html) the program's state and control its [execution](https://www.jetbrains.com/help/go/stepping-through-the-program.html) in an interactive manner. All variables have actual values, and we can even change them. The most curious can go further and [evaluate expressions](https://www.jetbrains.com/help/go/examining-suspended-program.html#evaluating-expressions) right inside the running application instance.
 
 P.S. Special thanks go to Hana Kim, who gave me a hint about the `gopls` daemon on [Gophers Slack](https://gophers.slack.com/archives/C2B4L99RS/p1630933343069000). Thank you!
+
+{{< tweet 1437426110082519049 >}}
