@@ -21,3 +21,5 @@ The above contributed to the fact that, unlike many other German towns, Germerin
 For further reading, you can refer to [the official post from the city](https://www.germering.de/germering/site.nsf/id/57838D995DC11BEDC12587D10030FF36) (in German). You might also like a short trailer that features Germering and nature around.
 
 {{< youtube _J8a5iNuuBQ >}}
+
+{{< tweet 1527958012056453121 >}}
