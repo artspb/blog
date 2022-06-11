@@ -18,7 +18,7 @@ enableGitInfo = true
 disqusShortname = "artspb"
 
 [params.googleTagManager]
-    id = "UA-32161445-1"
+    id = "G-XQFHDF23MS"
 
 [params]
     author = "Artem Khvastunov"
