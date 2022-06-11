@@ -60,4 +60,4 @@ Additionally, one can use [Option-⌘-R](https://support.apple.com/en-us/HT20490
 
 I've spent a lovely weekend reinstalling macOS again and again in an attempt to understand what's going on. As usual, the answer is straight and simple. I hope writing it down will help future me (and, perhaps, you) from loosing too much time on this task.
 
-{{< tweet 1249972041656291328 >}}
+{{< tweet user="art_spb" id="1249972041656291328" >}}

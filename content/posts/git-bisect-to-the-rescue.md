@@ -97,8 +97,8 @@ Date:   Wed Jun 27 23:00:12 2018 +0200
 
 As simple as that, you've just found the commit that breaks the tests. You see the changes so you can find the cause. It's now up to you to decide whether to fix or to revert. In any case, the day is saved, and you can proceed with your feature. Or, considering you had to check two commits less thus saving some time, you can justify one more drink, a well-deserved drink.
 
-{{< tweet 981446572465586176 >}}
+{{< tweet user="art_spb" id="981446572465586176" >}}
 
 I hope you enjoyed the reading. Do you have any questions left? Is there something I should cover in more details? I'm open for suggestions. Also, I'd really love to know your experience with *git-bisect*. Did you have a chance to try? Was it a success? Please comment below or on Twitter.
 
-{{< tweet 1086929906649452544 >}}
+{{< tweet user="art_spb" id="1086929906649452544" >}}

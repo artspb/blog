@@ -89,4 +89,4 @@ When I finished the book, I decided to approach the canvas again. How big my sur
 
 P.S. At some moment, I dared to think: how cool would it be if Corporate Rebels learn about JetBrains? I'm definitely biased, but it looks like we deserve to be interviewed among other progressive companies. To my delight, I found JetBrains on [the list](https://corporate-rebels.com/bucketlist). I think it means that we do it all right.
 
-{{< tweet 1261655418205503494 >}}
+{{< tweet user="art_spb" id="1261655418205503494" >}}

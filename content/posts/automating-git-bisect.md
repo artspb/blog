@@ -431,4 +431,4 @@ bisect run success
 
 So, what is the takeaway of this article? You can automate `git bisect` with a shell script which does commit verification. In the most common case, it runs unit tests. Depending on your build system, it can even be a simple command. The next obvious step would be IDE support, but this is the topic for the next post. Stay tuned and thank you for reading.
 
-{{< tweet 1110892815079358466 >}}
+{{< tweet user="art_spb" id="1110892815079358466" >}}

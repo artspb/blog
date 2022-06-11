@@ -46,4 +46,4 @@ That's it; we're good to dive in. GoLand hits the breakpoint, so one can [examin
 
 P.S. Special thanks go to Hana Kim, who gave me a hint about the `gopls` daemon on [Gophers Slack](https://gophers.slack.com/archives/C2B4L99RS/p1630933343069000). Thank you!
 
-{{< tweet 1437426110082519049 >}}
+{{< tweet user="art_spb" id="1437426110082519049" >}}

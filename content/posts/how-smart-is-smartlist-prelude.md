@@ -12,7 +12,7 @@ series = ["SmartList"]
 
 I actually wanted to dig into the topic for quite a while already. So I'm extremely excited that I finally found time for this. 
 
-{{< tweet 926546747933020160 >}}
+{{< tweet user="art_spb" id="926546747933020160" >}}
 
 Let me start with a story. But first comes obligatory [all persons fictitious disclaimer](https://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer).
 
@@ -116,4 +116,4 @@ class Collector {
 
 OK, fair enough. Nevertheless, I proceeded with the research until an unforeseen sequence of events distracted me for a year. But here I am again with a couple of JMH benchmarks and a set of plots. In the next post, I'll show you what I already managed to find. Stay tuned!
 
-{{< tweet 1112269662946029570 >}}
+{{< tweet user="art_spb" id="1112269662946029570" >}}

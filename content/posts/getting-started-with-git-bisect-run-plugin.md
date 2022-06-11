@@ -65,4 +65,4 @@ In this post, we've learned how to use git bisect run plugin in a basic case. Ho
 
 As usual, feel free to comment here or on Twitter with your questions and suggestions. I'm also curious how does the plugin work for you with other languages, e.g., Python or Go? Share your experience.
 
-{{< tweet 1111224368225550336 >}}
+{{< tweet user="art_spb" id="1111224368225550336" >}}

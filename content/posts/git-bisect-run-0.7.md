@@ -46,4 +46,4 @@ The last little thing is that all bisect commands are now available as actions u
 
 I'm very much satisfied with what I've done in 0.7. Most of these ideas were suggested by colleagues and users. It's a great relief that I've finally implemented them. Still, I'm looking forward to your feedback and reports. It's very inspiring to learn how people [use](https://twitter.com/patrickclery/status/1324813074130522113) the plugin. The next big thing I'm already thinking of is synchronizing multiple repositories using heuristics based on tags, submodules, and timestamps. But who knows when I find time again? 😃
 
-{{< tweet 1335253164266835969 >}}
+{{< tweet user="art_spb" id="1335253164266835969" >}}

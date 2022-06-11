@@ -14,7 +14,7 @@ series = ["GoLand", "TinyGo"]
 
 Since GoLand 2021.1.2, there's a dedicated [TinyGo plugin](https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/). Consider using it as it simplifies configuration.
 
-{{< tweet 1400085796527423490 >}}
+{{< tweet user="art_spb" id="1400085796527423490" >}}
 
 # Original blog post
 
@@ -102,4 +102,4 @@ I hope this tutorial was useful for you. As always, I appreciate any feedback. P
 
 **Update.** You can find [the example project](https://github.com/artspb/working-with-tinygo) that we've created on GitHub.
 
-{{< tweet 1238190068101263362 >}}
+{{< tweet user="art_spb" id="1238190068101263362" >}}

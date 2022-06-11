@@ -22,4 +22,4 @@ For further reading, you can refer to [the official post from the city](https://
 
 {{< youtube _J8a5iNuuBQ >}}
 
-{{< tweet 1527958012056453121 >}}
+{{< tweet user="art_spb" id="1527958012056453121" >}}
