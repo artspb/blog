@@ -16,15 +16,15 @@
           <div class="date">
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-                {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
+              <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                {{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
               </time>
             </span>
             {{ if not ( eq (.Date.Format "2006-01-02") (.Lastmod.Format "2006-01-02") ) }}
               <span class="posted-on">
                 <i class="fa fa-pencil" aria-hidden="true"></i>
-                <time datetime='{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}'>
-                  {{ .Lastmod.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
+                <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+                  {{ .Lastmod | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
                 </time>
               </span>
             {{ end }}
@@ -42,7 +42,7 @@
 
       <div>
         {{ if .Params.featuredImage }}
-          <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
+          <img src="{{ .Params.featuredImage | relURL }}" alt="Featured image"/>
         {{ end }}
         {{ .Content }}
       </div>
