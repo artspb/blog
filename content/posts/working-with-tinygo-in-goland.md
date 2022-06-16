@@ -7,7 +7,7 @@ images = ["/images/working-with-tinygo-in-goland/blinky.png"]
 slug = "working-with-tinygo-in-goland" 
 tags = ["GoLand", "Go", "TinyGo"]
 categories = ["Go", "TinyGo", "Tools", "Tutorials"]
-series = ["GoLand", "TinyGo"]
+series = ["GoLand"]
 +++
 
 # Update

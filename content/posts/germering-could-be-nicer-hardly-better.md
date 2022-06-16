@@ -7,7 +7,6 @@ images = ["/images/germering-could-be-nicer-hardly-better/germering.jpeg"]
 slug = "germering-could-be-nicer-hardly-better"
 tags = ["Germany", "Germering"]
 categories = ["Germany"]
-series = ["Germany"]
 +++
 
 The city of Germering, where I live, introduced a motto. It translates as "Could be nicer. Hardly better." At first glance, it doesn't look inspiring 🙃 But it has some meaning behind it.

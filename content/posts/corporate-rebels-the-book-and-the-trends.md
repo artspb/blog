@@ -6,7 +6,6 @@ description = "My reflections after reading the book."
 slug = "corporate-rebels-the-book-and-the-trends" 
 tags = ["JetBrains", "Corporate Rebels"]
 categories = ["Reading"]
-series = ["JetBrains"]
 +++
 
 It all started with a post in our internal blog. A colleague shared with us that he has visited a workshop organized by [Corporate Rebels](https://corporate-rebels.com). He briefly described who they are and invited every team to try their [canvas](https://corporate-rebels.com/homework-for-corporate-rebels). I read about them, but they didn't grab my attention back then. Half a year later, another colleague proposed to do the same. I spent some time reading about the canvas again with an identical result. However, this time I decided to go a bit further and talk to someone who actually did the homework. It helped to improve my understanding a bit, but the conclusion was that the canvas doesn't probably worth trying. 
