@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2019-03-31T10:11:43+02:00
 title = "How smart is SmartList? Prelude"
 description = "This is a prelude to the series of posts about SmartList which is our in-house replacement for ArrayList."
