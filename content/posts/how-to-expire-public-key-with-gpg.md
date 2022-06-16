@@ -33,3 +33,5 @@ keybase pgp update
 ```
 
 That's it. As I said, the procedure is simple. And I already feel how future Artem thanks me as he doesn't need to look up all this information again 🙂
+
+{{< tweet user="art_spb" id="1537425139440181248" >}}
