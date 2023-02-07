@@ -22,7 +22,7 @@ disqusShortname = "artspb"
 
 [params]
     author = "Artem Khvastunov"
-    info = "GoLand Team Lead at JetBrains"
+    info = "Engineering Manager at JetBrains"
     description = "Artem Khvastunov's personal website"
     images = ["/images/cover-1200x600.png"]
     keywords = "blog,developer,personal"
