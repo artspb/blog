@@ -19,3 +19,5 @@ Initially, the dialog was heavily inspired by a similar one for Rebase (read: co
 The dialog is more concise but bears the same functionality. It's designed to look like a terminal command preview. If you open it from a toolbar, you need to specify revisions manually. The list of branches and tags could help with this task. I personally prefer to start bisecting from the Git log by selecting corresponding revisions and right-clicking them. In this case, the fields get populated automatically.
 
 Please give it a try and share your opinion with me. I'm interested in how the new Bisect dialog works for you, as I like the Rebase one very much. Kudos to the JetBrains' designers and developers who implemented it!
+
+{{< tweet user="art_spb" id="1635182885090263042" >}}
