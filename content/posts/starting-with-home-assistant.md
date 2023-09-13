@@ -22,3 +22,5 @@ As a New Year's present, I bought myself a set of [blind actuators by Homematic]
 There's nothing fancy about moving blinders up and down with Home Assistant. I wouldn't bother writing a blog about it, as there's enough content on the matter. What I personally find fascinating and would like to share with you is how one can improve efficiency with just a few simple scripts. Charging a car when electricity is so cheap that a provider pays you back? Running ventilation only when CO2 is high? Heating water right before it's being used? It brings me a lot of joy to implement such ideas. That's why I'm eager to tell everyone about it. This is what blogs are for, right?
 
 In the upcoming posts, I'll tell more about my setup, integrations, and automations I have, as well as the challenges I face along the way. I'll try keeping posts dedicated to a single topic and short. I might as well promise to publish once a week, but who keeps such promises anyway? Nevertheless, feel free to comment with your ideas for the next post. And I'd love to hear your stories, too!
+
+{{< tweet user="art_spb" id="1701870015891316976" >}}
