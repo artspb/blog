@@ -2,6 +2,7 @@
 date = 2023-09-13T10:01:28+02:00
 title = "Starting with Home Assistant"
 description = "An introductory blog post about the beginning of my journey with Home Assistant."
+images = ["/images/starting-with-home-assistant/home-assistant-climate.png"]
 slug = "starting-with-home-assistant"
 tags = ["Home Assistant", "Homematic IP", "Velux", "Somfy"]
 categories = ["Home Assistant"]
