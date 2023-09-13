@@ -33,14 +33,13 @@
               {{ i18n "reading_time" .ReadingTime }}
             </span>
           </div>
-          {{ with .Page.Params.Authors }}{{ partial "taxonomy/authors.html" . }}{{ end }}
-          {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-          {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
-          {{ partial "taxonomy/edit-on-github.html" . }}
+          {{ with .GetTerms "authors" }}{{ partial "taxonomy/authors.html" . }}{{ end }}
+          {{ with .GetTerms "categories" }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+          {{ with .GetTerms "tags" }}{{ partial "taxonomy/tags.html" . }}{{ end }}
         </div>
       </header>
 
-      <div>
+      <div class="post-content">
         {{ if .Params.featuredImage }}
           <img src="{{ .Params.featuredImage | relURL }}" alt="Featured image"/>
         {{ end }}
@@ -53,6 +52,8 @@
         {{ partial "posts/disqus.html" . }}
         {{ partial "posts/commento.html" . }}
         {{ partial "posts/utterances.html" . }}
+        {{ partial "posts/giscus.html" . }}
+        {{ partial "posts/telegram.html" . }}
       </footer>
     </article>
 
