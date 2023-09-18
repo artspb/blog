@@ -57,3 +57,5 @@ Currently, I run Home Assistant OS in KVM on a dedicated hardware server that's 
 That's it for today. I hope the post was short enough for you to read it to the end. Feel free to share your setup and opinion on mine in the comments. I feel that if someone with experience looks at what I have, they'll find a couple of places that could be done better.
 
 P.S. I'm deciding between blinds and ventilation automation for the next post. Eventually, I plan to write about both, but which topic would you like to discover next? Please share with me!
+
+{{< tweet user="art_spb" id="1703669259891556773" >}}
