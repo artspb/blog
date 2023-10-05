@@ -66,3 +66,5 @@ As it's now summer, we only close shutters at night in the child's room as it fa
 ### Conclusion
 
 There are a couple more shutter-related things that I'd love to cover. For instance, there's a Home Assistant card with a button that disables automations in the guest room when guests are in. It does something else, too, but I kinda feel that the post is getting too long, so it's time to wrap up. Today, I covered the shutter setup as well as software automations around it. I hope it was interesting to read. Please let me know if I should write more about some of these parts. Also, don't hesitate to tell me if I could do something better. I'm always glad to improve!
+
+{{< tweet user="art_spb" id="1709854420744179749" >}}
