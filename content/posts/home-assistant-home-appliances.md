@@ -90,3 +90,5 @@ From a user perspective, there's now a contract that says: If you want the dishw
 Whenever I think, "It's just a single automation. It'll be a short post for sure," I end up with a lot of text. I was thinking about it and concluded that I just like how my smart home works and also like telling others about it. I hope you enjoyed reading this post as much as I enjoyed writing it. As always, leave your comments below with tips, suggestions, or anything else.
 
 P.S. I feel that blogs about automations and triggers lack Yaml snippets. I'm now thinking about how to add them without making the page even bigger. Stay tuned.
+
+{{< tweet user="art_spb" id="1711999451114471512" >}}
