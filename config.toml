@@ -22,7 +22,7 @@ disqusShortname = "artspb"
 
 [params]
     author = "Artem Khvastunov"
-    info = "Engineering Manager at JetBrains"
+    info = "Head of Professional Services at JetBrains"
     description = "Artem Khvastunov's personal website"
     images = ["/images/cover-1200x600.png"]
     keywords = "blog,developer,personal"
